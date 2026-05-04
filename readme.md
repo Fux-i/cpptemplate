@@ -25,7 +25,6 @@ sudo apt install lldb-19 clangd-19 clang-format-19
 
 ## Extensions
 
-- CMake Tools: Microsoft
-- clangd: LLVM
-- Clang-Format: Xaver Hellauer
-- CodeLLDB: Xaver Hellauer
+See `.vscode/extensions.json`.
+
+Once you open this project by vscode, it should notify you automatically.
